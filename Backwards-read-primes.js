@@ -19,3 +19,6 @@ Example: (in general form):
 Note:
   Forth Return only the first backwards-read prime between start and end or 0 if you don't find any.
 */
+
+
+// Solution
